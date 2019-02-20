@@ -1,2 +1,1 @@
-# udemy-springboot-oauth2-ionic
-udemy-springboot-oauth2-ionic
+# Udemy - Springboot + Oauth2 + Ionic3
